@@ -11,7 +11,7 @@ This project is ideal for **students, educators, and researchers** exploring dig
 ---
 
 <p align="center">
-  <img src="examples/output_with_qr.png" alt="imgvoid Logo" width="320"/>
+  <img src="https://github.com/whitehat-25/imgvoid/blob/main/imgvoid-wide.png" alt="imgvoid Logo" width="320"/>
   <br/><br/>
   <small>🔗 Bind links into images in safe, creative, and educational ways</small>
   <br/><br/>
