@@ -2,6 +2,23 @@
 
 **imgvoid**  is an experimental toolkit that demonstrates how images can safely act as carriers of digital information. Designed for educational and creative purposes, it provides multiple methods to bind URLs into images without hiding harmful code. With support for clickable HTML wrappers, QR code overlays, and EXIF metadata storage, imgvoid shows practical techniques for linking visuals to external resources. It also includes a simple steganography demo to illustrate how data can be embedded in pixel structures. This project is ideal for students, educators, and researchers exploring digital watermarking, steganography basics, and creative uses of image-based information sharing.
 
+<p align="center">
+  <img src="examples/output_with_qr.png" alt="imgvoid Logo" width="300"/>
+  <br/><br/>
+  <small>🔗 Bind links into images in safe, creative, and educational ways</small>
+  <br/><br/>
+  <a href="https://github.com/yourusername/imgvoid" target="_blank" title="Star imgvoid on GitHub">
+    ⭐ Star this project
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://discord.gg/btZpkp45gQ" target="_blank" title="Join our community!">
+    <img src="https://dcbadge.limes.pink/api/server/btZpkp45gQ" alt="Join our Discord"/>
+  </a>
+</p>
+
+<hr/>
+
+
 ---
 
 ## ✨ Features
