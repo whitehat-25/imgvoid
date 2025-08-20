@@ -1,7 +1,6 @@
 # imgvoid
 
-**imgvoid** is an experimental toolkit for binding **links into images** in safe, creative, and educational ways.  
-It explores how images can act as carriers of digital information — without hiding harmful code.  
+**imgvoid**  is an experimental toolkit that demonstrates how images can safely act as carriers of digital information. Designed for educational and creative purposes, it provides multiple methods to bind URLs into images without hiding harmful code. With support for clickable HTML wrappers, QR code overlays, and EXIF metadata storage, imgvoid shows practical techniques for linking visuals to external resources. It also includes a simple steganography demo to illustrate how data can be embedded in pixel structures. This project is ideal for students, educators, and researchers exploring digital watermarking, steganography basics, and creative uses of image-based information sharing.
 
 ---
 
