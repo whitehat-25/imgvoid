@@ -1,6 +1,6 @@
-# imgvoid
+# Imgvoid
 
-**imgvoid** is an experimental toolkit that demonstrates how images can safely act as carriers of digital information.  
+**Imgvoid** is an experimental toolkit that demonstrates how images can safely act as carriers of digital information.  
 Designed for **educational and creative purposes**, it provides multiple methods to bind URLs into images without hiding harmful code.  
 
 With support for **clickable HTML wrappers**, **QR code overlays**, and **EXIF metadata storage**, imgvoid shows practical techniques for linking visuals to external resources.  
