@@ -58,6 +58,48 @@ This project is ideal for **students, educators, and researchers** exploring dig
 </p>
 
 ---
+📖 Detailed Feature Descriptions
+🖼️ Clickable HTML Wrappers
+
+This method creates a small HTML file that wraps an image inside an <a> tag.
+When clicked, the image redirects the user to the desired URL.
+✅ Perfect for web demos, teaching beginners about hyperlinks, or making visual buttons.
+💡 Example use: Creating an educational page where each image leads to a cybersecurity resource.
+
+📱 QR Code Overlays
+
+QR codes are visible, accessible, and secure — everyone knows what they are.
+This feature generates a QR code for a given link and overlays it on top of your chosen image.
+✅ Great for posters, digital flyers, or research demos.
+💡 Example use: Embedding a QR code to your GitHub repo inside your project logo.
+
+📷 EXIF Metadata Binder
+
+Most image formats (like JPEG) support metadata tags.
+imgvoid can safely store links inside the EXIF fields (e.g., ImageDescription).
+The image looks normal, but tools (or Python scripts) can read back the embedded link.
+✅ Useful for teaching metadata awareness in digital forensics or photography courses.
+💡 Example use: Adding attribution links inside images for academic research.
+
+🎨 Steganography Demo
+
+Steganography hides data inside images at the pixel level.
+Our implementation is simple and educational, meant to demonstrate the concept without strong obfuscation.
+✅ Excellent for students exploring cybersecurity basics.
+⚠️ Not meant for real-world secure communication.
+💡 Example use: Show how even a simple image can “carry” a hidden short link.
+
+🛠️ Utilities
+
+A set of small helper functions to:
+
+Resize images without distortion
+
+Save and export in multiple formats
+
+Handle conversions automatically
+
+✅ This makes the workflow smooth, so you can focus on experiments instead of boilerplate code.
 
 ## 📂 Project Structure
 
