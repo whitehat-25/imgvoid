@@ -35,15 +35,11 @@ This project is ideal for **students, educators, and researchers** exploring dig
       <td>Wrap images in safe clickable HTML snippets that open URLs directly.</td>
     </tr>
     <tr>
-      <td><b>📷 QR Code Binder</b></td>
-      <td>Overlay QR codes inside images so links can be scanned easily.</td>
-    </tr>
-    <tr>
       <td><b>🖼 EXIF Metadata Binder</b></td>
       <td>Store and retrieve links safely inside image metadata fields.</td>
     </tr>
     <tr>
-      <td><b>🎨 Steganography Demo</b></td>
+      <td><b>🎨 Steganography </b></td>
       <td>A simple proof-of-concept showing how text can hide inside pixel data (educational only).</td>
     </tr>
     <tr>
